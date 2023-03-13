@@ -1,2 +1,2 @@
-#!/bni/bash
-echo 'Hello, Word'
+#!/bin/bash
+echo "Hello, World"
